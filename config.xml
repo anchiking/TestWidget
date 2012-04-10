@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xml:lang="en" id="http://mparaz.dev.wacapps.net/testmd5" version="1.0.0" height="724" width="480" viewmodes="floating maximized">
+  <name>testmd5</name>
+  <content src="index.html" type="text/html" encoding="UTF-8" />
+  <icon src="icon.png" width="72" height="72" />
+
+  <kwac orientation="portrait" />
+</widget>
+
