@@ -7,7 +7,8 @@
 ## 1.1 공통 Runtime 기본구조 
 
 > 여기에 메인 구조 그림이 들어갈 것이다. 
-![SKT Runtime 구조](./images/runtime1.png)
+
+![SKT Runtime 구조](http://nimg.nate.com/orgImg/tv/2012/10/10/1349837832_05001945-c.jpg)
 
 -	SKT Runtime은 크게 platform 별 Native Layer와 Java Script Layer의 2가지의 layer로 나눠 진다. 
 
@@ -22,7 +23,8 @@
 -	Java Script layer는 웹앱에서 사용하기 위한 JavaScript API들을 선언 및 정의 하며 이를 Runtime의 native layer와 연결하는 역할을 한다.
 
 -	**SRT-x.x.js** 형태로 배포 되며 Runtime이 업데이트 될때마다 버전명이 올라간다. 
-		> **2012.10.08** 기준 **SRT-1.0.js** 배포 
+
+	> **2012.10.08** 기준 **SRT-1.0.js** 배포 
 
 -	**SRT-x.x.js** 는 크게 두가지 역할로 구분된다. 
 
