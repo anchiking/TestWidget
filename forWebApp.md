@@ -8,7 +8,7 @@
 ## 1.1 공통 Runtime 기본구조 
 
 > 여기에 메인 구조 그림이 들어갈 것이다. 
-
+![Runtime 기본구조](./images/runtime1.png)
 -	SKT Runtime은 크게 platform 별 Native Layer와 Java Script Layer의 2가지의 layer로 나뉘어 진다. 
 
 -	Native layer는 각 플랫폼 별 Webview를 포함하여 사용한다. 

@@ -148,7 +148,7 @@
 	> example code 
 
 		public class pluginEx extends Plugin{
-
+		
 			@Override
 			public PluginResult execute(String arg0, JSONArray arg1, String callbackId) {
 				
